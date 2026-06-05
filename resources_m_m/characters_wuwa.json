@@ -236,7 +236,15 @@
     "name": "Male Rover"
   },
   {
-    "id": "plush_dream",
-    "name": "Plush Dream"
+    "id": "character_skin_plush_dream",
+    "name": "Character Skin Plush Dream"
+  },
+  {
+    "id": "lucy",
+    "name": "Lucy"
+  },
+  {
+    "id": "rebecca",
+    "name": "Rebecca"
   }
 ]
