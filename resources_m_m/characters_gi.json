@@ -308,10 +308,6 @@
     "name": "Ororon"
   },
   {
-    "id": "paimon",
-    "name": "Paimon"
-  },
-  {
     "id": "qiqi",
     "name": "Qiqi"
   },
@@ -594,5 +590,13 @@
   {
     "id": "wonderland_manekin",
     "name": "Wonderland Manekin"
+  },
+  {
+    "id": "hurlock_variations",
+    "name": "Hurlock Variations"
+  },
+  {
+    "id": "whispers_of_stars_and_smoke",
+    "name": "Whispers of Stars and Smoke"
   }
 ]
