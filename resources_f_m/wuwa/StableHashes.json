@@ -415,21 +415,21 @@
             "components": [
                 {
                     "componentIndex": 0,
-                    "diffuseHash": "10d1aeac",
-                    "lightmapHash": "a20c032a",
+                    "diffuseHash": "141dbc74",
+                    "lightmapHash": "c2bddf85",
                     "normalmapHash": null,
                     "optionalNotes": "Component 0: Diffuse + Lightmap."
                 },
                 {
                     "componentIndex": 1,
-                    "diffuseHash": "342dcbc3",
-                    "lightmapHash": "e7f8bb3b",
+                    "diffuseHash": "fb5cd7be",
+                    "lightmapHash": "f6c53a65",
                     "normalmapHash": null,
                     "optionalNotes": "Component 1: Diffuse + Lightmap."
                 },
                 {
                     "componentIndex": 2,
-                    "diffuseHash": "6f620405",
+                    "diffuseHash": "a8f40af2",
                     "lightmapHash": "32271b48",
                     "normalmapHash": null,
                     "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
@@ -437,36 +437,36 @@
                 {
                     "componentIndex": 3,
                     "diffuseHash": "24af21ae",
-                    "lightmapHash": "ea49c595",
-                    "normalmapHash": "de5a0f92",
+                    "lightmapHash": "4db471ed",
+                    "normalmapHash": "d0be8afe",
                     "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
                 },
                 {
                     "componentIndex": 4,
-                    "diffuseHash": "f58c741e",
+                    "diffuseHash": "7e5b9732",
                     "lightmapHash": null,
-                    "normalmapHash": "1cffa7e8",
+                    "normalmapHash": "46f3a4ed",
                     "optionalNotes": "Component 4: Diffuse + Normalmap."
                 },
                 {
                     "componentIndex": 5,
-                    "diffuseHash": "5a41b6fa",
-                    "lightmapHash": "cf8ac68f",
-                    "normalmapHash": "37400c45",
+                    "diffuseHash": "f7bf1c9b",
+                    "lightmapHash": "4a718845",
+                    "normalmapHash": "b210a21c",
                     "optionalNotes": "Component 5: Diffuse + Lightmap + Normalmap."
                 },
                 {
                     "componentIndex": 6,
-                    "diffuseHash": "ed5511fe",
+                    "diffuseHash": "51ac5e38",
                     "lightmapHash": null,
                     "normalmapHash": null,
                     "optionalNotes": "Component 6: Diffuse only. (Eyes)"
                 },
                 {
                     "componentIndex": 7,
-                    "diffuseHash": "1f746639",
+                    "diffuseHash": "9a9b6927",
                     "lightmapHash": null,
-                    "normalmapHash": "0448648a",
+                    "normalmapHash": "5734ef32",
                     "optionalNotes": "Component 7: Diffuse + Normalmap."
                 }
             ]
@@ -1022,49 +1022,49 @@
             "components": [
                 {
                     "componentIndex": 0,
-                    "diffuseHash": "3ba4af04",
-                    "lightmapHash": "d1c82bf3",
+                    "diffuseHash": "7bf47422",
+                    "lightmapHash": "016c4ac8",
                     "normalmapHash": null,
                     "optionalNotes": "Component 0: Diffuse + Lightmap."
                 },
                 {
                     "componentIndex": 1,
-                    "diffuseHash": "3cf552bd",
-                    "lightmapHash": "41532ac9",
+                    "diffuseHash": "e18c31ec",
+                    "lightmapHash": "23097842",
                     "normalmapHash": null,
                     "optionalNotes": "Component 1: Diffuse + Lightmap."
                 },
                 {
                     "componentIndex": 2,
-                    "diffuseHash": "bbb18270",
-                    "lightmapHash": "248b354f",
+                    "diffuseHash": "4da5a0ce",
+                    "lightmapHash": "1efff1fe",
                     "normalmapHash": null,
                     "optionalNotes": "Component 2: Diffuse + Lightmap. (Face)"
                 },
                 {
                     "componentIndex": 3,
-                    "diffuseHash": "312fc5e4",
-                    "lightmapHash": "eb3b4396",
-                    "normalmapHash": "6f70c428",
+                    "diffuseHash": "539bb5be",
+                    "lightmapHash": "757d77d3",
+                    "normalmapHash": "7fdbbf5c",
                     "optionalNotes": "Component 3: Diffuse + Lightmap + Normalmap."
                 },
                 {
                     "componentIndex": 4,
-                    "diffuseHash": "8f9bacd2",
+                    "diffuseHash": "44f39c4a",
                     "lightmapHash": null,
-                    "normalmapHash": "4c57726e",
+                    "normalmapHash": "fad39b8d",
                     "optionalNotes": "Component 4: Diffuse + Normalmap."
                 },
                 {
                     "componentIndex": 5,
-                    "diffuseHash": "b7a16140",
+                    "diffuseHash": "dee5c4df",
                     "lightmapHash": null,
-                    "normalmapHash": "9d5fe765",
+                    "normalmapHash": "30e60a96",
                     "optionalNotes": "Component 5: Diffuse + Normalmap."
                 },
                 {
                     "componentIndex": 6,
-                    "diffuseHash": "1443c0c0",
+                    "diffuseHash": "dfbf87de",
                     "lightmapHash": null,
                     "normalmapHash": null,
                     "optionalNotes": "Component 6: Diffuse only. (Eyes)"
