@@ -110,5 +110,13 @@
   {
     "id": "mi_fu",
     "name": "Mi Fu"
+  },
+  {
+    "id": "arcane",
+    "name": "Arcane"
+  },
+  {
+    "id": "liino",
+    "name": "Liino"
   }
 ]

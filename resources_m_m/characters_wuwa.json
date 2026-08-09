@@ -236,10 +236,6 @@
     "name": "Male Rover"
   },
   {
-    "id": "character_skin_plush_dream",
-    "name": "Character Skin Plush Dream"
-  },
-  {
     "id": "lucy",
     "name": "Lucy"
   },
@@ -270,5 +266,17 @@
   {
     "id": "yangyang_xuanling",
     "name": "Yangyang: Xuanling"
+  },
+  {
+    "id": "peach_parfait",
+    "name": "Peach Parfait"
+  },
+  {
+    "id": "peppermint",
+    "name": "Peppermint"
+  },
+  {
+    "id": "character_skin_plush_dream",
+    "name": "Plush Dream"
   }
 ]

@@ -330,5 +330,33 @@
   {
     "id": "starlight_billy",
     "name": "Starlight - Billy"
+  },
+  {
+    "id": "claret_flint",
+    "name": "Claret Flint"
+  },
+  {
+    "id": "majestic_wavechaser",
+    "name": "Majestic Wavechaser"
+  },
+  {
+    "id": "moonlight_whispers",
+    "name": "Moonlight Whispers"
+  },
+  {
+    "id": "princess_on_holiday",
+    "name": "Princess on Holiday"
+  },
+  {
+    "id": "roxy_ifrita_pryce",
+    "name": "Roxy Ifrita Pryce"
+  },
+  {
+    "id": "seashade_pas_seul",
+    "name": "Seashade Pas Seul"
+  },
+  {
+    "id": "starlight_billy_kid",
+    "name": "Starlight - Billy Kid"
   }
 ]
