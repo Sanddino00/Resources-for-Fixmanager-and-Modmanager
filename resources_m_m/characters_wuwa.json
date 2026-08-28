@@ -64,8 +64,16 @@
     "name": "Danjin"
   },
   {
+    "id": "denia",
+    "name": "Denia"
+  },
+  {
     "id": "encore",
     "name": "Encore"
+  },
+  {
+    "id": "female_rover",
+    "name": "Female Rover"
   },
   {
     "id": "fleurdelys",
@@ -76,12 +84,24 @@
     "name": "Galbrena"
   },
   {
+    "id": "hiyuki",
+    "name": "Hiyuki"
+  },
+  {
+    "id": "hsin",
+    "name": "Hsin"
+  },
+  {
     "id": "iuno",
     "name": "Iuno"
   },
   {
     "id": "jianxin",
     "name": "Jianxin"
+  },
+  {
+    "id": "jingran",
+    "name": "Jingran"
   },
   {
     "id": "jinhsi",
@@ -100,6 +120,14 @@
     "name": "Lucia Kushinada"
   },
   {
+    "id": "lucilla",
+    "name": "Lucilla"
+  },
+  {
+    "id": "lucy",
+    "name": "Lucy"
+  },
+  {
     "id": "lumi",
     "name": "Lumi"
   },
@@ -114,6 +142,10 @@
   {
     "id": "lynae",
     "name": "Lynae"
+  },
+  {
+    "id": "male_rover",
+    "name": "Male Rover"
   },
   {
     "id": "mornye",
@@ -132,12 +164,16 @@
     "name": "Phrolova"
   },
   {
+    "id": "qingxiao",
+    "name": "Qingxiao"
+  },
+  {
     "id": "qiuyuan",
     "name": "Qiuyuan"
   },
   {
-    "id": "Sigrika",
-    "name": "Sigrika"
+    "id": "rebecca",
+    "name": "Rebecca"
   },
   {
     "id": "roccia",
@@ -148,12 +184,24 @@
     "name": "Sanhua"
   },
   {
-    "id": "shorekeeper",
-    "name": "The Shorekeeper"
+    "id": "Sigrika",
+    "name": "Sigrika"
+  },
+  {
+    "id": "suisui",
+    "name": "Suisui"
+  },
+  {
+    "id": "suoming",
+    "name": "Suoming"
   },
   {
     "id": "taoqi",
     "name": "Taoqi"
+  },
+  {
+    "id": "shorekeeper",
+    "name": "The Shorekeeper"
   },
   {
     "id": "verina",
@@ -166,6 +214,10 @@
   {
     "id": "yangyang",
     "name": "Yangyang"
+  },
+  {
+    "id": "yangyang_xuanling",
+    "name": "Yangyang: Xuanling"
   },
   {
     "id": "yinlin",
@@ -188,95 +240,43 @@
     "name": "Zhezhi"
   },
   {
-    "id": "character_skin_sanhua_exorcistic_adjuration",
-    "name": "Character Skin Sanhua Exorcistic Adjuration"
-  },
-  {
-    "id": "character_skin_jinhsi_peach_blossom",
-    "name": "Character Skin Jinhsi Peach Blossom"
+    "id": "character_skin_carlotta_splashing_summer",
+    "name": "Character Skin Carlotta Splashing Summer"
   },
   {
     "id": "character_skin_changli_laurel_nymph",
     "name": "Character Skin Changli Laurel Nymph"
   },
   {
-    "id": "character_skin_carlotta_splashing_summer",
-    "name": "Character Skin Carlotta Splashing Summer"
+    "id": "peach_parfait",
+    "name": "Character Skin Chisa Peach Parfait"
+  },
+  {
+    "id": "character_skin_female_rover_perpetual_spark",
+    "name": "Character Skin Female Rover Female Rover Perpetual Spark"
+  },
+  {
+    "id": "character_skin_jinhsi_peach_blossom",
+    "name": "Character Skin Jinhsi Peach Blossom"
+  },
+  {
+    "id": "peppermint",
+    "name": "Character Skin Lynae Peppermint"
+  },
+  {
+    "id": "character_skin_male_rover_perpetual_spark",
+    "name": "Character Skin Male Rover Male Rover Perpetual Spark"
+  },
+  {
+    "id": "character_skin_plush_dream",
+    "name": "Character Skin Mornye Plush Dream"
+  },
+  {
+    "id": "character_skin_sanhua_exorcistic_adjuration",
+    "name": "Character Skin Sanhua Exorcistic Adjuration"
   },
   {
     "id": "character_skin_zani_downtown_repose",
     "name": "Character Skin Zani Downtown Repose"
-  },
-  {
-    "id": "character_skin_female_rover_perpetual_spark",
-    "name": "Character Skin Female Rover Perpetual Spark"
-  },
-  {
-    "id": "character_skin_male_rover_perpetual_spark",
-    "name": "Character Skin Male Rover Perpetual Spark"
-  },
-  {
-    "id": "denia",
-    "name": "Denia"
-  },
-  {
-    "id": "female_rover",
-    "name": "Female Rover"
-  },
-  {
-    "id": "hiyuki",
-    "name": "Hiyuki"
-  },
-  {
-    "id": "lucilla",
-    "name": "Lucilla"
-  },
-  {
-    "id": "male_rover",
-    "name": "Male Rover"
-  },
-  {
-    "id": "lucy",
-    "name": "Lucy"
-  },
-  {
-    "id": "rebecca",
-    "name": "Rebecca"
-  },
-  {
-    "id": "hsin",
-    "name": "Hsin"
-  },
-  {
-    "id": "jingran",
-    "name": "Jingran"
-  },
-  {
-    "id": "qingxiao",
-    "name": "Qingxiao"
-  },
-  {
-    "id": "suisui",
-    "name": "Suisui"
-  },
-  {
-    "id": "suoming",
-    "name": "Suoming"
-  },
-  {
-    "id": "yangyang_xuanling",
-    "name": "Yangyang: Xuanling"
-  },
-  {
-    "id": "peach_parfait",
-    "name": "Peach Parfait"
-  },
-  {
-    "id": "peppermint",
-    "name": "Peppermint"
-  },
-  {
-    "id": "character_skin_plush_dream",
-    "name": "Plush Dream"
   }
 ]

@@ -48,6 +48,14 @@
     "name": "Caesar"
   },
   {
+    "id": "cissia",
+    "name": "Cissia"
+  },
+  {
+    "id": "claret_flint",
+    "name": "Claret Flint"
+  },
+  {
     "id": "corin",
     "name": "Corin"
   },
@@ -72,6 +80,10 @@
     "name": "Harumasa"
   },
   {
+    "id": "hugo_vlad",
+    "name": "Hugo Vlad"
+  },
+  {
     "id": "jane",
     "name": "Jane"
   },
@@ -86,6 +98,10 @@
   {
     "id": "lighter",
     "name": "Lighter"
+  },
+  {
+    "id": "lucia_elowen",
+    "name": "Lucia Elowen"
   },
   {
     "id": "lucy",
@@ -104,8 +120,20 @@
     "name": "Miyabi"
   },
   {
+    "id": "nangong_yu",
+    "name": "Nangong Yu"
+  },
+  {
     "id": "nekomata",
     "name": "Nekomata"
+  },
+  {
+    "id": "nicole_demara",
+    "name": "Nicole Demara"
+  },
+  {
+    "id": "norma_hollowell",
+    "name": "Norma Hollowell"
   },
   {
     "id": "orphie",
@@ -116,16 +144,36 @@
     "name": "PanYinhu"
   },
   {
+    "id": "piper_wheel",
+    "name": "Piper Wheel"
+  },
+  {
+    "id": "promeia",
+    "name": "Promeia"
+  },
+  {
     "id": "pulchra",
     "name": "Pulchra"
+  },
+  {
+    "id": "pyrois",
+    "name": "Pyrois"
   },
   {
     "id": "qingyi",
     "name": "Qingyi"
   },
   {
+    "id": "remielle_dan",
+    "name": "Remielle Dan"
+  },
+  {
     "id": "rina",
     "name": "Rina"
+  },
+  {
+    "id": "roxy_ifrita_pryce",
+    "name": "Roxy Ifrita Pryce"
   },
   {
     "id": "seed",
@@ -136,12 +184,24 @@
     "name": "Seth"
   },
   {
+    "id": "sigrid_de_l_azur",
+    "name": "Sigrid de L'Azur"
+  },
+  {
     "id": "soldier11",
     "name": "Soldier11"
   },
   {
     "id": "soukaku",
     "name": "Soukaku"
+  },
+  {
+    "id": "starlight_billy",
+    "name": "Starlight - Billy"
+  },
+  {
+    "id": "starlight_billy_kid",
+    "name": "Starlight - Billy Kid"
   },
   {
     "id": "sunna",
@@ -156,6 +216,14 @@
     "name": "Ukinami Yuzuha"
   },
   {
+    "id": "velina_airgid",
+    "name": "Velina Airgid"
+  },
+  {
+    "id": "vivian_banshee",
+    "name": "Vivian Banshee"
+  },
+  {
     "id": "wise",
     "name": "Wise"
   },
@@ -166,6 +234,10 @@
   {
     "id": "yeshunguang",
     "name": "Ye Shunguang"
+  },
+  {
+    "id": "yidhari_murphy",
+    "name": "Yidhari Murphy"
   },
   {
     "id": "yixuan",
@@ -180,16 +252,20 @@
     "name": "ZhuYuan"
   },
   {
-    "id": "character_skin_nicole_cunning_cutie",
-    "name": "Character Skin Nicole Cunning Cutie"
+    "id": "character_skin_alice_sea_of_thyme",
+    "name": "Character Skin Alice Thymefield Sea of Thyme"
   },
   {
-    "id": "character_skin_alice_sea_of_thyme",
-    "name": "Character Skin Alice Sea Of Thyme"
+    "id": "discordant_note",
+    "name": "Character Skin Aria Discordant Note"
   },
   {
     "id": "character_skin_astra_chandelier",
-    "name": "Character Skin Astra Chandelier"
+    "name": "Character Skin Astra Yao Chandelier"
+  },
+  {
+    "id": "brilliance_of_stars",
+    "name": "Character Skin Belle Brilliance of Stars"
   },
   {
     "id": "character_skin_belle_delicate_sunlight",
@@ -201,7 +277,67 @@
   },
   {
     "id": "character_skin_ellen_on_campus",
-    "name": "Character Skin Ellen On Campus"
+    "name": "Character Skin Ellen Joe On Campus"
+  },
+  {
+    "id": "dignified_blossom",
+    "name": "Character Skin Hoshimi Miyabi Dignified Blossom"
+  },
+  {
+    "id": "nocturne_of_light",
+    "name": "Character Skin Jane Doe Nocturne of Light"
+  },
+  {
+    "id": "white_heart_silhouette",
+    "name": "Character Skin Komano Manato White Heart Silhouette"
+  },
+  {
+    "id": "princess_on_holiday",
+    "name": "Character Skin Luciana de Montefio Princess on Holiday"
+  },
+  {
+    "id": "rhapsody_s_muse",
+    "name": "Character Skin Nangong Yu Rhapsody's Muse"
+  },
+  {
+    "id": "character_skin_nicole_cunning_cutie",
+    "name": "Character Skin Nicole Demara Cunning Cutie"
+  },
+  {
+    "id": "culinary_jewel",
+    "name": "Character Skin Pan Yinhu Culinary Jewel"
+  },
+  {
+    "id": "moonlight_whispers",
+    "name": "Character Skin Remielle Dan Moonlight Whispers"
+  },
+  {
+    "id": "seashade_pas_seul",
+    "name": "Character Skin Remielle Dan Seashade Pas Seul"
+  },
+  {
+    "id": "majestic_wavechaser",
+    "name": "Character Skin Sigrid de L'Azur Majestic Wavechaser"
+  },
+  {
+    "id": "afternoon_tea_break",
+    "name": "Character Skin Sunna Afternoon Tea Break"
+  },
+  {
+    "id": "character_skin_yuzuha_tanuki_in_broad_daylight",
+    "name": "Character Skin Ukinami Yuzuha Tanuki in Broad Daylight"
+  },
+  {
+    "id": "shade_of_leisure",
+    "name": "Character Skin Velina Airgid Shade of Leisure"
+  },
+  {
+    "id": "iris_of_the_shore",
+    "name": "Character Skin Vivian Banshee Iris of the Shore"
+  },
+  {
+    "id": "oath_of_skies",
+    "name": "Character Skin Wise Oath of Skies"
   },
   {
     "id": "character_skin_wise_peaceful_waves",
@@ -212,151 +348,11 @@
     "name": "Character Skin Wise Soaring Crane"
   },
   {
+    "id": "TouchofDawnlight",
+    "name": "Character Skin Ye Shunguang Touch of Dawnlight"
+  },
+  {
     "id": "character_skin_yixuan_trails_of_ink",
     "name": "Character Skin Yixuan Trails of Ink"
-  },
-  {
-    "id": "character_skin_yuzuha_tanuki_in_broad_daylight",
-    "name": "Character Skin Yuzuha Tanuki In Broad Daylight"
-  },
-  {
-    "id": "TouchofDawnlight",
-    "name": "Touch of Dawnlight"
-  },
-  {
-    "id": "afternoon_tea_break",
-    "name": "Afternoon Tea Break"
-  },
-  {
-    "id": "cissia",
-    "name": "Cissia"
-  },
-  {
-    "id": "culinary_jewel",
-    "name": "Culinary Jewel"
-  },
-  {
-    "id": "discordant_note",
-    "name": "Discordant Note"
-  },
-  {
-    "id": "hugo_vlad",
-    "name": "Hugo Vlad"
-  },
-  {
-    "id": "iris_of_the_shore",
-    "name": "Iris of the Shore"
-  },
-  {
-    "id": "lucia_elowen",
-    "name": "Lucia Elowen"
-  },
-  {
-    "id": "nangong_yu",
-    "name": "Nangong Yu"
-  },
-  {
-    "id": "nicole_demara",
-    "name": "Nicole Demara"
-  },
-  {
-    "id": "nocturne_of_light",
-    "name": "Nocturne of Light"
-  },
-  {
-    "id": "piper_wheel",
-    "name": "Piper Wheel"
-  },
-  {
-    "id": "promeia",
-    "name": "Promeia"
-  },
-  {
-    "id": "rhapsody_s_muse",
-    "name": "Rhapsody's Muse"
-  },
-  {
-    "id": "starlight_billy",
-    "name": "Starlight - Billy"
-  },
-  {
-    "id": "vivian_banshee",
-    "name": "Vivian Banshee"
-  },
-  {
-    "id": "white_heart_silhouette",
-    "name": "White Heart Silhouette"
-  },
-  {
-    "id": "yidhari_murphy",
-    "name": "Yidhari Murphy"
-  },
-  {
-    "id": "dignified_blossom",
-    "name": "Dignified Blossom"
-  },
-  {
-    "id": "norma_hollowell",
-    "name": "Norma Hollowell"
-  },
-  {
-    "id": "pyrois",
-    "name": "Pyrois"
-  },
-  {
-    "id": "velina_airgid",
-    "name": "Velina Airgid"
-  },
-  {
-    "id": "brilliance_of_stars",
-    "name": "Brilliance of Stars"
-  },
-  {
-    "id": "oath_of_skies",
-    "name": "Oath of Skies"
-  },
-  {
-    "id": "remielle_dan",
-    "name": "Remielle Dan"
-  },
-  {
-    "id": "shade_of_leisure",
-    "name": "Shade of Leisure"
-  },
-  {
-    "id": "sigrid_de_l_azur",
-    "name": "Sigrid de L'Azur"
-  },
-  {
-    "id": "starlight_billy",
-    "name": "Starlight - Billy"
-  },
-  {
-    "id": "claret_flint",
-    "name": "Claret Flint"
-  },
-  {
-    "id": "majestic_wavechaser",
-    "name": "Majestic Wavechaser"
-  },
-  {
-    "id": "moonlight_whispers",
-    "name": "Moonlight Whispers"
-  },
-  {
-    "id": "princess_on_holiday",
-    "name": "Princess on Holiday"
-  },
-  {
-    "id": "roxy_ifrita_pryce",
-    "name": "Roxy Ifrita Pryce"
-  },
-  {
-    "id": "seashade_pas_seul",
-    "name": "Seashade Pas Seul"
-  },
-  {
-    "id": "starlight_billy_kid",
-    "name": "Starlight - Billy Kid"
   }
 ]

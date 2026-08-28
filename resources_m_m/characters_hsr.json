@@ -24,12 +24,20 @@
     "name": "Arlan"
   },
   {
+    "id": "ashveil",
+    "name": "Ashveil"
+  },
+  {
     "id": "asta",
     "name": "Asta"
   },
   {
     "id": "aventurine",
     "name": "Aventurine"
+  },
+  {
+    "id": "aventurine_waveflair",
+    "name": "Aventurine • Waveflair"
   },
   {
     "id": "bailu",
@@ -52,6 +60,10 @@
     "name": "Bronya"
   },
   {
+    "id": "caelus",
+    "name": "Caelus"
+  },
+  {
     "id": "castorice",
     "name": "Castorice"
   },
@@ -70,10 +82,6 @@
   {
     "id": "cyrene",
     "name": "Cyrene"
-  },
-  {
-    "id": "the_dahlia",
-    "name": "The Dahlia"
   },
   {
     "id": "dan_heng",
@@ -124,6 +132,10 @@
     "name": "Gepard"
   },
   {
+    "id": "gilgamesh",
+    "name": "Gilgamesh"
+  },
+  {
     "id": "guinaifen",
     "name": "Guinaifen"
   },
@@ -140,12 +152,20 @@
     "name": "Himeko"
   },
   {
+    "id": "himeko_nova",
+    "name": "Himeko • Nova"
+  },
+  {
     "id": "hook",
     "name": "Hook"
   },
   {
     "id": "huohuo",
     "name": "Huohuo"
+  },
+  {
+    "id": "hyacine",
+    "name": "Hyacine"
   },
   {
     "id": "hysilens",
@@ -192,8 +212,16 @@
     "name": "March 7th"
   },
   {
+    "id": "character_skin_march7hunt_thumb",
+    "name": "March 7th Hunt"
+  },
+  {
     "id": "misha",
     "name": "Misha"
+  },
+  {
+    "id": "mortenax_blade",
+    "name": "Mortenax Blade"
   },
   {
     "id": "moze",
@@ -206,6 +234,10 @@
   {
     "id": "natasha",
     "name": "Natasha"
+  },
+  {
+    "id": "pearl",
+    "name": "Pearl"
   },
   {
     "id": "pela",
@@ -224,8 +256,16 @@
     "name": "Rappa"
   },
   {
+    "id": "rin_tohsaka",
+    "name": "Rin Tohsaka"
+  },
+  {
     "id": "robin",
     "name": "Robin"
+  },
+  {
+    "id": "robin_summeretto",
+    "name": "Robin • Summeretto"
   },
   {
     "id": "ruan_mei",
@@ -252,6 +292,10 @@
     "name": "Silver Wolf"
   },
   {
+    "id": "silver_wolf_lv_999",
+    "name": "Silver Wolf LV.999"
+  },
+  {
     "id": "sparkle",
     "name": "Sparkle"
   },
@@ -260,20 +304,28 @@
     "name": "Sparxie"
   },
   {
-    "id": "sushang",
-    "name": "Sushang"
+    "id": "stelle",
+    "name": "Stelle"
   },
   {
     "id": "sunday",
     "name": "Sunday"
   },
   {
-    "id": "tingyun",
-    "name": "Tingyun"
+    "id": "sushang",
+    "name": "Sushang"
+  },
+  {
+    "id": "the_dahlia",
+    "name": "The Dahlia"
   },
   {
     "id": "the_herta",
     "name": "The Herta"
+  },
+  {
+    "id": "tingyun",
+    "name": "Tingyun"
   },
   {
     "id": "topaz",
@@ -308,12 +360,24 @@
     "name": "Yunli"
   },
   {
+    "id": "vim_and_vigor_caelus",
+    "name": "Character Skin Caelus Vim and Vigor Caelus"
+  },
+  {
+    "id": "gossamer_flutter",
+    "name": "Character Skin Castorice Gossamer Flutter"
+  },
+  {
     "id": "character_skin_firefly_spring_missive",
     "name": "Character Skin Firefly Spring Missive"
   },
   {
     "id": "character_skin_march7hunt_thumb",
     "name": "Character Skin March7Hunt Thumb"
+  },
+  {
+    "id": "character_skin_march_7th_preservation_nascent_spring",
+    "name": "Character Skin March 7th (Preservation) Nascent Spring"
   },
   {
     "id": "character_skin_marchns_thumb",
@@ -324,63 +388,11 @@
     "name": "Character Skin Ruan Mei Plumblossom Letter"
   },
   {
-    "id": "ashveil",
-    "name": "Ashveil"
-  },
-  {
-    "id": "caelus",
-    "name": "Caelus"
-  },
-  {
-    "id": "gossamer_flutter",
-    "name": "Gossamer Flutter"
-  },
-  {
-    "id": "hyacine",
-    "name": "Hyacine"
-  },
-  {
-    "id": "mortenax_blade",
-    "name": "Mortenax Blade"
-  },
-  {
-    "id": "silver_wolf_lv_999",
-    "name": "Silver Wolf LV.999"
-  },
-  {
-    "id": "stelle",
-    "name": "Stelle"
-  },
-  {
-    "id": "vim_and_vigor_caelus",
-    "name": "Vim and Vigor Caelus"
+    "id": "candy_coated_waves",
+    "name": "Character Skin Sparxie Candy-Coated Waves"
   },
   {
     "id": "vim_and_vigor_stelle",
-    "name": "Vim and Vigor Stelle"
-  },
-  {
-    "id": "gilgamesh",
-    "name": "Gilgamesh"
-  },
-  {
-    "id": "himeko_nova",
-    "name": "Himeko • Nova"
-  },
-  {
-    "id": "rin_tohsaka",
-    "name": "Rin Tohsaka"
-  },
-  {
-    "id": "aventurine_waveflair",
-    "name": "Aventurine • Waveflair"
-  },
-  {
-    "id": "candy_coated_waves",
-    "name": "Character Skin Candy-Coated Waves"
-  },
-  {
-    "id": "robin_summeretto",
-    "name": "Robin • Summeretto"
+    "name": "Character Skin Stelle Vim and Vigor Stelle"
   }
 ]

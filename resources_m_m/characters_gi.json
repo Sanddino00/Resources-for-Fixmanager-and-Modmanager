@@ -4,6 +4,10 @@
     "name": "Aether"
   },
   {
+    "id": "aether_heaven",
+    "name": "Aether Heaven"
+  },
+  {
     "id": "aino",
     "name": "Aino"
   },
@@ -18,6 +22,10 @@
   {
     "id": "aloy",
     "name": "Aloy"
+  },
+  {
+    "id": "alyosha",
+    "name": "Alyosha"
   },
   {
     "id": "amber",
@@ -60,6 +68,10 @@
     "name": "Chasca"
   },
   {
+    "id": "chevreuse",
+    "name": "Chevreuse"
+  },
+  {
     "id": "chiori",
     "name": "Chiori"
   },
@@ -90,6 +102,10 @@
   {
     "id": "dahlia",
     "name": "Dahlia"
+  },
+  {
+    "id": "dainsleif",
+    "name": "Dainsleif"
   },
   {
     "id": "dehya",
@@ -244,12 +260,24 @@
     "name": "Layla"
   },
   {
+    "id": "linnea",
+    "name": "Linnea"
+  },
+  {
     "id": "lisa",
     "name": "Lisa"
   },
   {
+    "id": "lohen",
+    "name": "Lohen"
+  },
+  {
     "id": "lumine",
     "name": "Lumine"
+  },
+  {
+    "id": "lumine_heaven",
+    "name": "Lumine Heaven"
   },
   {
     "id": "lynette",
@@ -292,6 +320,10 @@
     "name": "Neuvillette"
   },
   {
+    "id": "nicole",
+    "name": "Nicole"
+  },
+  {
     "id": "nilou",
     "name": "Nilou"
   },
@@ -304,8 +336,16 @@
     "name": "Noelle"
   },
   {
+    "id": "odette",
+    "name": "Odette"
+  },
+  {
     "id": "ororon",
     "name": "Ororon"
+  },
+  {
+    "id": "prune",
+    "name": "Prune"
   },
   {
     "id": "qiqi",
@@ -318,6 +358,10 @@
   {
     "id": "razor",
     "name": "Razor"
+  },
+  {
+    "id": "ronova",
+    "name": "Ronova"
   },
   {
     "id": "rosaria",
@@ -384,8 +428,20 @@
     "name": "Venti"
   },
   {
+    "id": "vesna",
+    "name": "Vesna"
+  },
+  {
+    "id": "vodyanitsa",
+    "name": "Vodyanitsa"
+  },
+  {
     "id": "wanderer",
     "name": "Wanderer"
+  },
+  {
+    "id": "wonderland_manekin",
+    "name": "Wonderland Manekin"
   },
   {
     "id": "wriothesley",
@@ -452,167 +508,119 @@
     "name": "Zibai"
   },
   {
-    "id": "aether_heaven",
-    "name": "Aether Heaven"
-  },
-  {
     "id": "ambercn",
-    "name": "AmberCN"
-  },
-  {
-    "id": "ayakaspringbloom",
-    "name": "Springbloom Missive"
+    "name": "Character Skin Amber 100% Outrider"
   },
   {
     "id": "barbarasummertime",
-    "name": "Summertime Sparkle"
+    "name": "Character Skin Barbara Summertime Sparkle"
   },
   {
     "id": "bennettadventure",
-    "name": "Adventures in Blazing Hue"
-  },
-  {
-    "id": "breeze_of_sabaa",
-    "name": "Breeze of Sabaa"
-  },
-  {
-    "id": "dilucreddead",
-    "name": "Red Dead of Night"
-  },
-  {
-    "id": "ein_immernachtstraum",
-    "name": "Ein Immernachtstraum"
-  },
-  {
-    "id": "jeancn",
-    "name": "JeanCN"
-  },
-  {
-    "id": "jeansea",
-    "name": "Sea Breeze Dandelion"
-  },
-  {
-    "id": "kaeyasailwind",
-    "name": "Sailwind Shadow"
-  },
-  {
-    "id": "keqingopulent",
-    "name": "Opulent Splendor"
-  },
-  {
-    "id": "kiraraphantom",
-    "name": "Phantom in Boots"
-  },
-  {
-    "id": "kleeblossoming",
-    "name": "Blossoming Starlight"
-  },
-  {
-    "id": "lisasobriquet",
-    "name": "A Sobriquet Under Shade"
-  },
-  {
-    "id": "lumine_heaven",
-    "name": "Lumine Heaven"
-  },
-  {
-    "id": "monacn",
-    "name": "MonaCN"
-  },
-  {
-    "id": "neuvilletteunnamed",
-    "name": "Melusent Gift"
-  },
-  {
-    "id": "ningguangorchid",
-    "name": "Orchid's Evening Gown"
-  },
-  {
-    "id": "rosariacn",
-    "name": "RosariaCN"
-  },
-  {
-    "id": "shenhefrostflower",
-    "name": "Frostflower Dew"
-  },
-  {
-    "id": "twilight_blossom",
-    "name": "Twilight Blossom"
-  },
-  {
-    "id": "xianglingnewyear",
-    "name": "New Year's Cheer"
-  },
-  {
-    "id": "bamboo",
-    "name": "Bamboo Rain"
-  },
-  {
-    "id": "yaoyaorainlit",
-    "name": "Rainlit Bamboo Reverie"
-  },
-  {
-    "id": "yelantranquil",
-    "name": "Tranquil Banquet"
-  },
-  {
-    "id": "cherries_snow_laden",
-    "name": "Cherries Snow-Laden"
-  },
-  {
-    "id": "chevreuse",
-    "name": "Chevreuse"
-  },
-  {
-    "id": "dainsleif",
-    "name": "Dainsleif"
-  },
-  {
-    "id": "linnea",
-    "name": "Linnea"
-  },
-  {
-    "id": "lohen",
-    "name": "Lohen"
-  },
-  {
-    "id": "nicole",
-    "name": "Nicole"
-  },
-  {
-    "id": "prune",
-    "name": "Prune"
-  },
-  {
-    "id": "toward_the_distant_horizon",
-    "name": "Toward the Distant Horizon"
-  },
-  {
-    "id": "wonderland_manekin",
-    "name": "Wonderland Manekin"
+    "name": "Character Skin Bennett Adventures in Blazing Hue"
   },
   {
     "id": "hurlock_variations",
-    "name": "Hurlock Variations"
+    "name": "Character Skin Charlotte Hurlock Variations"
   },
   {
     "id": "whispers_of_stars_and_smoke",
-    "name": "Whispers of Stars and Smoke"
+    "name": "Character Skin Citlali Whispers of Stars and Smoke"
   },
   {
-    "id": "alyosha",
-    "name": "Alyosha"
+    "id": "dilucreddead",
+    "name": "Character Skin Diluc Red Dead of Night"
   },
   {
-    "id": "odette",
-    "name": "Odette"
+    "id": "toward_the_distant_horizon",
+    "name": "Character Skin Durin Toward the Distant Horizon"
   },
   {
-    "id": "ronova",
-    "name": "Ronova"
+    "id": "ein_immernachtstraum",
+    "name": "Character Skin Fischl Ein Immernachtstraum"
   },
   {
-    "id": "vodyanitsa",
-    "name": "Vodyanitsa"
+    "id": "twilight_blossom",
+    "name": "Character Skin Ganyu Twilight Blossom"
+  },
+  {
+    "id": "cherries_snow_laden",
+    "name": "Character Skin Hu Tao Cherries Snow-Laden"
+  },
+  {
+    "id": "jeancn",
+    "name": "Character Skin Jean Gunnhildr's Legacy"
+  },
+  {
+    "id": "jeansea",
+    "name": "Character Skin Jean Sea Breeze Dandelion"
+  },
+  {
+    "id": "kaeyasailwind",
+    "name": "Character Skin Kaeya Sailwind Shadow"
+  },
+  {
+    "id": "ayakaspringbloom",
+    "name": "Character Skin Kamisato Ayaka Springbloom Missive"
+  },
+  {
+    "id": "keqingopulent",
+    "name": "Character Skin Keqing Opulent Splendor"
+  },
+  {
+    "id": "kiraraphantom",
+    "name": "Character Skin Kirara Phantom in Boots"
+  },
+  {
+    "id": "kleeblossoming",
+    "name": "Character Skin Klee Blossoming Starlight"
+  },
+  {
+    "id": "lisasobriquet",
+    "name": "Character Skin Lisa A Sobriquet Under Shade"
+  },
+  {
+    "id": "monacn",
+    "name": "Character Skin Mona Pact of Stars and Moon"
+  },
+  {
+    "id": "neuvilletteunnamed",
+    "name": "Character Skin Neuvillette Melusent Gift"
+  },
+  {
+    "id": "breeze_of_sabaa",
+    "name": "Character Skin Nilou Breeze of Sabaa"
+  },
+  {
+    "id": "ningguangorchid",
+    "name": "Character Skin Ningguang Orchid's Evening Gown"
+  },
+  {
+    "id": "rosariacn",
+    "name": "Character Skin Rosaria To the Church's Free Spirit"
+  },
+  {
+    "id": "shenhefrostflower",
+    "name": "Character Skin Shenhe Frostflower Dew"
+  },
+  {
+    "id": "character_skin_traveler_night_hunt_in_snow",
+    "name": "Character Skin Traveler Night Hunt in Snow"
+  },
+  {
+    "id": "xianglingnewyear",
+    "name": "Character Skin Xiangling New Year's Cheer"
+  },
+  {
+    "id": "bamboo",
+    "name": "Character Skin Xingqiu Bamboo Rain"
+  },
+  {
+    "id": "yaoyaorainlit",
+    "name": "Character Skin Yaoyao Rainlit Bamboo Reverie"
+  },
+  {
+    "id": "yelantranquil",
+    "name": "Character Skin Yelan Tranquil Banquet"
   }
 ]

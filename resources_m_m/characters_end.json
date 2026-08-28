@@ -12,6 +12,10 @@
     "name": "Antal"
   },
   {
+    "id": "arcane",
+    "name": "Arcane"
+  },
+  {
     "id": "arclight",
     "name": "Arclight"
   },
@@ -22,6 +26,10 @@
   {
     "id": "avywenna",
     "name": "Avywenna"
+  },
+  {
+    "id": "camille",
+    "name": "Camille"
   },
   {
     "id": "catcher",
@@ -68,6 +76,14 @@
     "name": "Lifeng"
   },
   {
+    "id": "liino",
+    "name": "Liino"
+  },
+  {
+    "id": "mi_fu",
+    "name": "Mi Fu"
+  },
+  {
     "id": "perlica",
     "name": "Perlica"
   },
@@ -76,8 +92,24 @@
     "name": "Pogranichnik"
   },
   {
+    "id": "purrchena",
+    "name": "Purrchena"
+  },
+  {
+    "id": "rossi",
+    "name": "Rossi"
+  },
+  {
     "id": "snowshine",
     "name": "Snowshine"
+  },
+  {
+    "id": "tangtang",
+    "name": "Tangtang"
+  },
+  {
+    "id": "typhoeus",
+    "name": "Typhoeus"
   },
   {
     "id": "wulfgard",
@@ -92,31 +124,7 @@
     "name": "Yvonne"
   },
   {
-    "id": "rossi",
-    "name": "Rossi"
-  },
-  {
-    "id": "tangtang",
-    "name": "Tangtang"
-  },
-  {
     "id": "zhuang_fangyi",
     "name": "Zhuang Fangyi"
-  },
-  {
-    "id": "camille",
-    "name": "Camille"
-  },
-  {
-    "id": "mi_fu",
-    "name": "Mi Fu"
-  },
-  {
-    "id": "arcane",
-    "name": "Arcane"
-  },
-  {
-    "id": "liino",
-    "name": "Liino"
   }
 ]
