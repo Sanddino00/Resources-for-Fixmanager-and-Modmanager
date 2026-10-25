@@ -1,0 +1,128 @@
+          "checksum": 2213,
+          "shapekey_count": 86,
+          "source": "Phoebe 3.5 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Shorekeeper": {
+      "versions": {
+        "3.7": {
+          "vanilla_shapekey_vertex_count": 39390,
+          "dispatch_y": 1231,
+          "checksum": 3637,
+          "shapekey_count": 86,
+          "source": "Shorekeeper 3.7 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Baizhi": {
+      "versions": {
+        "3.7": {
+          "vanilla_shapekey_vertex_count": 32665,
+          "dispatch_y": 1021,
+          "checksum": 1874,
+          "shapekey_count": 86,
+          "source": "Baizhi 3.7 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Zani Menu": {
+      "versions": {
+        "3.7": {
+          "vanilla_shapekey_vertex_count": 47158,
+          "dispatch_y": 1474,
+          "checksum": 10249,
+          "shapekey_count": 86,
+          "source": "Zani Menu 3.7 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Zani Ulti": {
+      "versions": {
+        "3.7": {
+          "vanilla_shapekey_vertex_count": 8476,
+          "dispatch_y": 265,
+          "checksum": 2747,
+          "shapekey_count": 15,
+          "source": "Zani Ulti 3.7 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Zani Lower": {
+      "versions": {
+        "3.7": {
+          "vanilla_shapekey_vertex_count": 25079,
+          "dispatch_y": 784,
+          "checksum": 2047,
+          "shapekey_count": 72,
+          "source": "Zani Lower 3.7 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Changli": {
+      "versions": {
+        "3.5": {
+          "vanilla_shapekey_vertex_count": 35099,
+          "dispatch_y": 1097,
+          "checksum": 2156,
+          "shapekey_count": 86,
+          "source": "Changli 3.5 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Cantarella": {
+      "versions": {
+        "3.5": {
+          "vanilla_shapekey_vertex_count": 40592,
+          "dispatch_y": 1269,
+          "checksum": 2496,
+          "shapekey_count": 86,
+          "source": "Cantarella 3.5 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Ciaccona": {
+      "versions": {
+        "3.6": {
+          "vanilla_shapekey_vertex_count": 35699,
+          "dispatch_y": 1116,
+          "checksum": 2125,
+          "shapekey_count": 105,
+          "source": "Ciaccona 3.6 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Lynae": {
+      "versions": {
+        "3.6": {
+          "vanilla_shapekey_vertex_count": 52189,
+          "dispatch_y": 1631,
+          "checksum": 2020,
+          "shapekey_count": 105,
+          "source": "Lynae 3.6 Metadata.json",
+          "verified": true
+        }
+      }
+    },
+    "Mornye": {
+      "versions": {
+        "3.5": {
+          "vanilla_shapekey_vertex_count": 54128,
+          "dispatch_y": 1692,
+          "checksum": 3389,
+          "shapekey_count": 107,
+          "source": "Mornye 3.5 Metadata(20261023-121546).json",
+          "verified": true
+        }
+      }
+    }
+  }
