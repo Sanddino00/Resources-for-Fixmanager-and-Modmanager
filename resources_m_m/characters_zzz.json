@@ -196,10 +196,6 @@
     "name": "Soukaku"
   },
   {
-    "id": "starlight_billy",
-    "name": "Starlight - Billy"
-  },
-  {
     "id": "starlight_billy_kid",
     "name": "Starlight - Billy Kid"
   },
@@ -250,6 +246,26 @@
   {
     "id": "zhuyuan",
     "name": "ZhuYuan"
+  },
+  {
+    "id": "kafka",
+    "name": "Kafka"
+  },
+  {
+    "id": "phoenix_reffaella",
+    "name": "Phoenix Reffaella"
+  },
+  {
+    "id": "robin",
+    "name": "Robin"
+  },
+  {
+    "id": "severian_lowell",
+    "name": "Severian Lowell"
+  },
+  {
+    "id": "sunbringer",
+    "name": "Sunbringer"
   },
   {
     "id": "character_skin_alice_sea_of_thyme",
@@ -354,5 +370,29 @@
   {
     "id": "character_skin_yixuan_trails_of_ink",
     "name": "Character Skin Yixuan Trails of Ink"
+  },
+  {
+    "id": "character_skin_aria_cuteness_loading",
+    "name": "Character Skin Aria Cuteness Loading"
+  },
+  {
+    "id": "character_skin_nangong_yu_heartfelt_support",
+    "name": "Character Skin Nangong Yu Heartfelt Support"
+  },
+  {
+    "id": "character_skin_phoenix_reffaella_daydream_complex",
+    "name": "Character Skin Phoenix Reffaella Daydream Complex"
+  },
+  {
+    "id": "character_skin_phoenix_reffaella_the_illness_called_life",
+    "name": "Character Skin Phoenix Reffaella The Illness Called Life"
+  },
+  {
+    "id": "character_skin_severian_lowell_solemnly_impeccable",
+    "name": "Character Skin Severian Lowell Solemnly Impeccable"
+  },
+  {
+    "id": "character_skin_sunna_delusions_in_business",
+    "name": "Character Skin Sunna Delusions in Business"
   }
 ]

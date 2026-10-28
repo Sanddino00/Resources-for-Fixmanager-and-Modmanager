@@ -212,6 +212,18 @@
     "name": "March 7th"
   },
   {
+    "id": "aeon_aha",
+    "name": "Aeon ★ Aha"
+  },
+  {
+    "id": "astra_yao",
+    "name": "Astra Yao"
+  },
+  {
+    "id": "ellen",
+    "name": "Ellen"
+  },
+  {
     "id": "character_skin_march7hunt_thumb",
     "name": "March 7th Hunt"
   },
@@ -372,10 +384,6 @@
     "name": "Character Skin Firefly Spring Missive"
   },
   {
-    "id": "character_skin_march7hunt_thumb",
-    "name": "Character Skin March7Hunt Thumb"
-  },
-  {
     "id": "character_skin_march_7th_preservation_nascent_spring",
     "name": "Character Skin March 7th (Preservation) Nascent Spring"
   },
@@ -390,5 +398,13 @@
   {
     "id": "vim_and_vigor_stelle",
     "name": "Character Skin Stelle Vim and Vigor Stelle"
+  },
+  {
+    "id": "character_skin_evanescia_lunar_blossoming",
+    "name": "Character Skin Evanescia Lunar Blossoming"
+  },
+  {
+    "id": "character_skin_hyacine_warm_cotton_skies",
+    "name": "Character Skin Hyacine Warm Cotton Skies"
   }
 ]
